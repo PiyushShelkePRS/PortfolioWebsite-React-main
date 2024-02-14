@@ -57,7 +57,7 @@ function Navbar() {
           <NavLink href="#education">Education</NavLink>
         </NavItems>
         <ButtonContainer>
-          <GitHubButton href="https://github.com/PiyushShelkePRS">Github Profile</GitHubButton>
+          <GitHubButton href={Bio.github} target="_blank">Github Profile</GitHubButton>
         </ButtonContainer>
 
         {open && (
