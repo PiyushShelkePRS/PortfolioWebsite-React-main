@@ -442,7 +442,7 @@ export const Bio = {
         "keras OCR"
       ],
     //   category: "web app",
-    //   github: "https://github.com/Code-With-Yogi/ImageSearchApplication",
+         github: "https://github.com/PiyushShelkePRS/Moving-Vehicle-Registration-Plate-Detection.git",
     //   webapp: "https://imagesearch-yogi.netlify.app",
     },
     {
