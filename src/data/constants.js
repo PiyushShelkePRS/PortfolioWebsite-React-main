@@ -462,7 +462,7 @@ export const Bio = {
      
       ],
       // category: "web app",
-      // github: "https://github.com/Code-With-Yogi/currencyConvertor",
+      github: "https://github.com/PiyushShelkePRS/House-Price-prediction-using-Linear-regression.git",
       // webapp: "https://currencyconverter-yogi.netlify.app/",
     },
     {
