@@ -428,7 +428,7 @@ export const Bio = {
       title: "Moving Vehicle Registration Plate Detection",
       date: "Augest 2022 - February 2023",
       description:
-        "Automated license plate identification and extraction from moving vehicles, integrating computer vision and OCR techniques. Implemented real-time video stream recognition for enhanced efficiency and accuracy in traffic monitoring.Contributed to advancements in intelligent transportation systems by providing a robust solution for moving license plate identification..",
+        "Automated license plate identification and extraction from moving vehicles, integrating computer vision and OCR techniques. Implemented real-time video stream recognition for enhanced efficiency and accuracy in traffic monitoring.Contributed to advancements in intelligent transportation systems by providing a robust solution for moving license plate identification.",
       image:
         "https://github.com/PiyushShelkePRS/Image/blob/main/About%20IT.png?raw=true",
       tags: [
