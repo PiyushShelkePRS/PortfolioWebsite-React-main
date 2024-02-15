@@ -107,7 +107,7 @@ export const Bio = {
       title: "Cloud",
       skills: [
         {
-          name: "AWS",
+          name: "A  mazon Web Services",
           image:
             "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
         },
@@ -230,6 +230,16 @@ export const Bio = {
           name: "Eclipse",
           image:
             "https://logowik.com/content/uploads/images/eclipse5466.jpg",
+        },
+        {
+          name: "Google Colab",
+          image:
+            "https://colab.research.google.com/img/colab_favicon_256px.png",
+        },
+        {
+          name: "Jupyter Notebook",
+          image:
+            "https://miro.medium.com/v2/resize:fit:750/1*XEzukXOEUudcXkyrouu3vw.jpeg",
         },
         
       ],
@@ -445,8 +455,11 @@ export const Bio = {
         "https://github.com/PiyushShelkePRS/Image/blob/main/About%20Code.png?raw=true",
       tags: [
      "Python",
-     "Machine Learning",
-     "matplotlib"
+     "NumPy",
+     "Pandas",
+     "Matplotlib",
+     "Seaborn"
+     
       ],
       // category: "web app",
       // github: "https://github.com/Code-With-Yogi/currencyConvertor",
