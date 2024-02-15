@@ -430,7 +430,7 @@ export const Bio = {
       description:
         "Automated license plate identification and extraction from moving vehicles, integrating computer vision and OCR techniques. Implemented real-time video stream recognition for enhanced efficiency and accuracy in traffic monitoring.Contributed to advancements in intelligent transportation systems by providing a robust solution for moving license plate identification.",
       image:
-        "https://github.com/PiyushShelkePRS/Image/blob/main/About%20IT.png?raw=true",
+        "https://github.com/PiyushShelkePRS/Image/blob/main/Moving%20Vehicle%20Registration%20Plate%20Detection.png?raw=true",
       tags: [
         "HTML",
         "CSS",
