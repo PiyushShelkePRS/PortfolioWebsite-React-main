@@ -107,7 +107,7 @@ export const Bio = {
       title: "Cloud",
       skills: [
         {
-          name: "A  mazon Web Services",
+          name: "Amazon Web Services",
           image:
             "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
         },
