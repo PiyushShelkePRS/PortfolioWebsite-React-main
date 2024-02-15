@@ -450,7 +450,7 @@ export const Bio = {
       title: "House price prediction using linear regression",
       date: "February 2022 - February 2022",
       description:
-        "In early 2022, the worked as a Python Intern at Obdurate Technologies Pvt. Ltd. They focused on machine learning algorithms, completed case studies, and  project on house price prediction using linear regression in Python. Their responsibilities encompassed data gathering, preprocessing, exploratory data analysis, model building, and model evaluation.",
+        "To identify the variables affecting house prices, e.g. area, number of rooms, bathrooms, etc.To create a linear model that quantitatively relates house prices with variables such as number of rooms, area, number of bathrooms, etc.To know the accuracy of the model, i.e. how well these variables can predict house prices.",
       image:
         "https://github.com/PiyushShelkePRS/Image/blob/main/About%20Code.png?raw=true",
       tags: [
