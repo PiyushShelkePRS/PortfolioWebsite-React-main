@@ -452,7 +452,7 @@ export const Bio = {
       description:
         "To identify the variables affecting house prices, e.g. area, number of rooms, bathrooms, etc.To create a linear model that quantitatively relates house prices with variables such as number of rooms, area, number of bathrooms, etc.To know the accuracy of the model, i.e. how well these variables can predict house prices.",
       image:
-        "https://github.com/PiyushShelkePRS/Image/blob/main/About%20Code.png?raw=true",
+        "https://github.com/PiyushShelkePRS/Image/blob/main/House%20price%20prediction%20using%20linear%20regression%20image.png?raw=true",
       tags: [
      "Python",
      "NumPy",
@@ -472,7 +472,7 @@ export const Bio = {
       description:
         "911 Calls Capstone Project - Analysing the frequency of emergency 911 calls. This project is developed on a Jupyter notebook using Python with Numpy, Pandas data analysis libraries along with Matplotlib and seaborn data visualization libraries. The dataset is used from Kaggle for data analysis. This project involves the exploratory data analysis and data visualization of the frequency of 911 emergency calls made throughout the time of the year and also for which common reasons/incidents 911 calls are usually made during which part of the year.",
       image:
-        "https://github.com/PiyushShelkePRS/Image/blob/main/911%20Calls%20Capstone%20Project.png?raw=true",
+        "https://github.com/PiyushShelkePRS/Image/blob/main/911%20Calls%20Capstone%20Project%20image.png?raw=true",
       tags: ["Python","NumPy","Pandas","Matplotlib","Seaborn"],
       category: "web app",
       github: "https://github.com/PiyushShelkePRS/911-Calls-Capstone-Project.git",
