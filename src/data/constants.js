@@ -372,6 +372,7 @@ export const Bio = {
       id: 6,
       img: "https://media.licdn.com/dms/image/C4D0BAQFDGEir7za5tQ/company-logo_200_200/0/1639742934412/scloudin_software_solution_pvt_ltd_logo?e=1710374400&v=beta&t=K1rdnYlJOrPLU85Zk13n7RHxfBGaLxrwTWN86EIMxmw",
       role: "Software Testing Intern",
+      company: "SCloudIn Software Soluction pvt.ltd., Bangalore",
       date:"January-2022 To March-2022",
       desc:"Provided comprehensive feedback to the development team, facilitating the identification and resolution of software and improvement opportunities",
       skills:[
@@ -383,6 +384,7 @@ export const Bio = {
       id: 7,
       img: "https://upload.wikimedia.org/wikipedia/en/e/eb/All_India_Council_for_Technical_Education_logo.png",
       role: "AI-ML Virtual Intern",
+      company: "All India Council for Technical Education",
       date:"March-2022 To May-2022",
       desc:"As an AI-ML Intern at AICTE, I learned about Cloud Foundations and Machine Learning Foundations on AWS. Later, I worked o AWS Laps and completed task",
       skills:[
