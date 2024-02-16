@@ -9,7 +9,7 @@ export const Bio = {
       "I'm a cheerful, team-oriented individual with a knack for tackling challenges head-on. Passionate about learning, I'm committed to delivering top-notch results with a positive mindset and eagerness to grow. With a focus on collaboration and a dedication to excellence, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/PiyushShelkePRS",
     resume:
-      "https://drive.google.com/file/d/1cBMLWXEfm1PplBrUqWIvG6RCsqiWDcfC/view?usp=drive_link",
+      "https://drive.google.com/file/d/19wvxCYJSj2FF98LdH_GJQ7108jBYz_zc/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/piyushshelkeprs/",
     twitter: "https://twitter.com/PiyushShelkePRS",
     insta: "https://www.instagram.com/piyushshelke_prs/",
